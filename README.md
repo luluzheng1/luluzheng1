@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏢 I'm currently a Software Engineer at Verizon
-- 🏫 I graduated from Tufts University with a B.S. in Computer Science in May 2021
+- 🏢 Software Engineer at Verizon
+- 🏫 Tufts University, B.S. in Computer Science, May 2021
 - 💬 Ask me about AWS, Python, JavaScript, Java
