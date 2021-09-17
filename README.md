@@ -1,4 +1,4 @@
-## Hi there, I'm Wenlu 👋!
+# Hi there, I'm Wenlu 👋!
 [![dev.to badge](https://img.shields.io/badge/Linkedin-Wenlu-blue)](https://www.linkedin.com/in/wzheng05/)
 <!--
 **luluzheng1/luluzheng1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
