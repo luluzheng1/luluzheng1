@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Wenlu 👋!
+[![dev.to badge](https://img.shields.io/badge/Linkedin-Wenlu-blue)](https://www.linkedin.com/in/wzheng05/)
 <!--
 **luluzheng1/luluzheng1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🏢 I'm currently a Software Engineer at Verizon
+- 🏫 I graduated from Tufts University with a B.S. in Computer Science in May 2021
+- 💬 Ask me about AWS, Python, JavaScript, Java
